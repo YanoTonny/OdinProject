@@ -1,1 +1,5 @@
 hello world 
+My name is Tonny Odhiambo and i'm a software development student.
+My birthday is 26th February 1998.
+I am fluent in both English and Kiswahili.
+Eager to learn and develop my skills in this field.
